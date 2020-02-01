@@ -1,0 +1,30 @@
+Excercice 1
+
+Without a microcontroller
+
+<img src="without_microcontroller.jpg" alt="without_microcontroller">
+
+With a microcontroller
+    input: variable resistance
+    output: with PWM signal
+
+<img src="with_microcontroller.jpg" alt="with_microcontroller">
+
+code :
+
+int led = 1;
+
+void setup() {
+    pinMode(led, OUTPUT);
+}
+
+void loop() {
+      digitalWrite(led,HIGH);
+      delay(1000);
+      digitalWrite(led,LOW);
+      delay(1000);
+}
+
+What are the differences? Which one is more efficient?
+
+Avec le microcontrolleur nous pouvons appliquer du code et donc avoir plus de fonctionnalités(on, off, low, high) sur la led.
