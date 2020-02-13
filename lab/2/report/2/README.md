@@ -1,5 +1,7 @@
 
 Buzzer frequency
+<img src="Sketch1.png" alt="Sketch_buzzer">
+<img src="schematic1.png" alt="schematic_buzzer">
 <img src="buzzer.jpg" alt="buzzer">
 
 code :
@@ -30,15 +32,15 @@ Sketch LDR :
 Schematic LDR :
 <img src="schematic2.png" alt="schematic">
 
-
-<img src="low_ldr.jpg" alt="low resistance">
 Ici nous avons une LDR sans lumière à proximité donc notre led reste allumé.
+<img src="low_ldr.jpg" alt="low resistance">
 
 
 
 
-<img src="high_ldr.jpg" alt="high resistance">
 Avec un flash sur notre LDR(resis <=300) notre led s'éteint.
+<img src="high_ldr.jpg" alt="high resistance">
+
 
 
 Code :
@@ -63,5 +65,5 @@ void loop() {
  }
 }
 
-<img src="plot.png" alt="plot">
+<img src="plot.PNG" alt="plot">
 Nous avons pas réussi à lire les données arduino sur python (matplotlib).
