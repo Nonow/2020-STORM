@@ -9,7 +9,7 @@
 
 
 code :
-
+<pre>
 //update from SAnwandter
 
 #define ROW_1 2
@@ -161,3 +161,5 @@ timeCount = 0;
     digitalWrite(COL_7, (~b >> 6) & 0x01); // Get the 7th bit: 00000010
     digitalWrite(COL_8, (~b >> 7) & 0x01); // Get the 8th bit: 00000001
 }*/
+
+</pre>
