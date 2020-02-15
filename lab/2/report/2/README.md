@@ -65,5 +65,5 @@ void loop() {
  }
 }
 
-<img src="plot.PNG" alt="plot">
+<img src="plot.png" alt="plot">
 Nous avons pas réussi à lire les données arduino sur python (matplotlib).
