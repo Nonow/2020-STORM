@@ -11,7 +11,7 @@ With a microcontroller
 <img src="with_microcontroller.jpg" alt="with_microcontroller">
 
 code :
-
+<pre>
 int led = 1;
 
 void setup() {
@@ -24,7 +24,7 @@ void loop() {
       digitalWrite(led,LOW);
       delay(1000);
 }
-
+</pre>
 What are the differences? Which one is more efficient?
 
 Avec le microcontrolleur nous pouvons appliquer du code et donc avoir plus de fonctionnalités(on, off, low, high) sur la led.
