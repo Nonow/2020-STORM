@@ -5,7 +5,7 @@ Buzzer frequency
 <img src="buzzer.jpg" alt="buzzer">
 
 code :
-
+<pre>
 int buzzer =8;
 int nb=0;
 void setup() {
@@ -21,7 +21,7 @@ if(Serial.available()){
 
    }
 }
-
+</pre>
 
 
 LDR :
@@ -32,38 +32,34 @@ Sketch LDR :
 Schematic LDR :
 <img src="schematic2.png" alt="schematic">
 
-Ici nous avons une LDR sans lumière à proximité donc notre led reste allumé.
+Ici nous avons une LDR avec une faible resistance donc notre led reste allumé.
 <img src="low_ldr.jpg" alt="low resistance">
 
 
 
 
-Avec un flash sur notre LDR(resis <=300) notre led s'éteint.
+Avec un flash sur notre LDR notre led s'éteint.
 <img src="high_ldr.jpg" alt="high resistance">
 
 
 
 Code :
+<pre>
+int sensorPin = A0; // select the input pin for LDR
 
-int led=12;
-int ldr=A0;
+int sensorValue = 0; // variable to store the value coming from the sensor
+
 void setup() {
- Serial.begin (9600);
- pinMode(led, OUTPUT);
- pinMode(ldr, INPUT);
+Serial.begin(9600); //sets serial port for communication
 }
 void loop() {
- int ldrStatus = analogRead (ldr);
+sensorValue = analogRead(sensorPin); // read the value from the sensor
+Serial.println(sensorValue); //prints the values coming from the sensor on the screen
 
- if(ldrStatus <= 300){
-   digitalWrite(led, HIGH);
-   Serial.println("ldr ne détecte pas de lumière, on allume la led");
- }
- else {
-   digitalWrite (led, LOW);
-   Serial.println("ldr détecte de la lumière, on éteint la led");
- }
+delay(100);
+
 }
+</pre>
 
 <img src="plot.png" alt="plot">
-Nous avons pas réussi à lire les données arduino sur python (matplotlib).
+
