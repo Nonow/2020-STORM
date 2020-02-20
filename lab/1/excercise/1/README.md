@@ -1,5 +1,5 @@
 <h1>TP1</h1>
-Exercice 1
+<strong>Exercice 1</strong>
 
 Without a microcontroller
 
