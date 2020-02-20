@@ -1,10 +1,10 @@
 <h1>TP2</h1>
-Buzzer frequency
+<strong>Buzzer frequency</strong>
 <img src="Sketch1.png" alt="Sketch_buzzer">
 <img src="schematic1.png" alt="schematic_buzzer">
 <img src="buzzer.jpg" alt="buzzer">
 
-code :
+<strong>code :</strong>
 <pre>
 int buzzer =8;
 int nb=0;
@@ -24,26 +24,26 @@ if(Serial.available()){
 </pre>
 
 
-LDR :
+<strong>LDR :</strong>
 
-Sketch LDR :
+<strong>Sketch LDR :</strong>
 <img src="Sketch2.png" alt="Sketch">
 
-Schematic LDR :
+<strong>Schematic LDR :</strong>
 <img src="schematic2.png" alt="schematic">
 
-Ici nous avons une LDR avec une faible resistance donc notre led reste allumé.
+<h3>Ici nous avons une LDR avec une faible resistance donc notre led reste allumé.</h3>
 <img src="low_ldr.jpg" alt="low resistance">
 
 
 
 
-Avec un flash sur notre LDR notre led s'éteint.
+<h3>Avec un flash sur notre LDR notre led s'éteint.</h3>
 <img src="high_ldr.jpg" alt="high resistance">
 
 
 
-Code :
+<strong>Code :</strong>
 <pre>
 int sensorPin = A0; // select the input pin for LDR
 
@@ -61,7 +61,7 @@ delay(100);
 }
 </pre>
 
-Image plot :
+<strong>Image plot :</strong>
 
 <img src="plot.png" alt="plot">
 
