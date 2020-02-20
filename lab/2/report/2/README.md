@@ -24,8 +24,9 @@ if(Serial.available()){
 }
 </pre>
 
-
-<strong>LDR :</strong>
+<br>
+<br>
+<strong>LDR </strong>
 
 <strong>Sketch LDR :</strong>
 <img src="Sketch2.png" alt="Sketch">
@@ -33,13 +34,13 @@ if(Serial.available()){
 <strong>Schematic LDR :</strong>
 <img src="schematic2.png" alt="schematic">
 
-<strong>Ici nous avons une LDR avec une faible resistance donc notre led reste allumé.</strong>
+<p>Ici, nous avons une LDR avec une faible resistance donc notre led reste allumée.</p>
 <img src="low_ldr.jpg" alt="low resistance">
 
 
 
 
-<strong>Avec un flash sur notre LDR notre led s'éteint.</strong>
+<p>Avec un flash sur notre LDR, notre led s'éteint.</p>
 <img src="high_ldr.jpg" alt="high resistance">
 
 
