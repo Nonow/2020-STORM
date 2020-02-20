@@ -1,9 +1,9 @@
 <h1>TP2</h1>
-Sketch
+<strong>Sketch</strong>
 
 <img src="Sketch.png" alt="Sketch">
 
 
-schematic
+<strong>schematic</strong>
 
 <img src="schematic.png" alt="schematic">
