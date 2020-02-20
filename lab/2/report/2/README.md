@@ -61,7 +61,6 @@ delay(100);
 
 }
 </pre>
-<br>
 
 <strong>Image plot :</strong>
 <img src="plot.png" alt="plot">
