@@ -24,7 +24,7 @@ if(Serial.available()){
 }
 </pre>
 
-<div>
+<br>
 <strong>LDR </strong>
 <br>
 <strong>Sketch LDR :</strong>
@@ -41,7 +41,7 @@ if(Serial.available()){
 
 <p>Avec un flash sur notre LDR, notre led s'éteint.</p>
 <img src="high_ldr.jpg" alt="high resistance">
-</div>
+
 
 
 <strong>Code :</strong>
