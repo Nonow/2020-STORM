@@ -64,6 +64,5 @@ delay(100);
 <br>
 
 <strong>Image plot :</strong>
-
 <img src="plot.png" alt="plot">
 
