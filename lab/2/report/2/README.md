@@ -1,5 +1,5 @@
 <h1>TP2</h1>
-<strong>Buzzer frequency</strong>
+<h4>Buzzer frequency</h4>
 <br>
 <img src="Sketch1.png" alt="Sketch_buzzer">
 <img src="schematic1.png" alt="schematic_buzzer">
@@ -61,8 +61,9 @@ delay(100);
 
 }
 </pre>
-
+<br>
+<div>
 <strong>Image plot :</strong>
 
 <img src="plot.png" alt="plot">
-
+</div>
