@@ -1,4 +1,4 @@
-<title>TP2</title>
+<h1>TP2</h1>
 Buzzer frequency
 <img src="Sketch1.png" alt="Sketch_buzzer">
 <img src="schematic1.png" alt="schematic_buzzer">
