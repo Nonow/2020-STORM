@@ -1,5 +1,6 @@
 <h1>TP2</h1>
 <strong>Buzzer frequency</strong>
+<br>
 <img src="Sketch1.png" alt="Sketch_buzzer">
 <img src="schematic1.png" alt="schematic_buzzer">
 <img src="buzzer.jpg" alt="buzzer">
@@ -32,13 +33,13 @@ if(Serial.available()){
 <strong>Schematic LDR :</strong>
 <img src="schematic2.png" alt="schematic">
 
-<h3>Ici nous avons une LDR avec une faible resistance donc notre led reste allumé.</h3>
+<strong>Ici nous avons une LDR avec une faible resistance donc notre led reste allumé.</strong>
 <img src="low_ldr.jpg" alt="low resistance">
 
 
 
 
-<h3>Avec un flash sur notre LDR notre led s'éteint.</h3>
+<strong>Avec un flash sur notre LDR notre led s'éteint.</strong>
 <img src="high_ldr.jpg" alt="high resistance">
 
 
