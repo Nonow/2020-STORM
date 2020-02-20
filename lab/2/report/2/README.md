@@ -25,9 +25,8 @@ if(Serial.available()){
 </pre>
 
 <br>
-<br>
 <strong>LDR </strong>
-
+<br>
 <strong>Sketch LDR :</strong>
 <img src="Sketch2.png" alt="Sketch">
 
