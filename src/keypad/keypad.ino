@@ -1,9 +1,5 @@
 #include <Password.h>
 #include <Keypad.h>
-#include <LiquidCrystal.h>
-
-// LCD
-LiquidCrystal lcd(A0, A5, A1, A2, A3, A4); // Creates an LC object. Parameters: (rs, enable, d4, d5, d6, d7) 
 
 
 // keypad
@@ -26,21 +22,14 @@ void setup(){
   // keypad
   Serial.begin(9600);
   keypad.addEventListener(keypadEvent); //add an event listener for this keypad
-  lcd.begin(16,2); 
 
 }
   
 void loop(){
-  lcd.clear();
-  lcd.setCursor(0,0);
-  lcd.print("Alarm will be");
-  lcd.setCursor(0,1);
   // keypad
   char key = keypad.getKey();
     // just print the pressed key
    if (key){
-    //Serial.println(key);
-    lcd.print("test");
     Serial.println(key);
   }
 
