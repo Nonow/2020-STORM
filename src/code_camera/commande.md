@@ -1,3 +1,5 @@
+# Version Non-Python
+
 # Identification materiels
 
 On commence par verifier si la webcam est bien reconnnue : $ lsusb
@@ -41,3 +43,7 @@ Puis on compile
 On peut lancer le programme (avec notament le format ou le port pour la liaison internet ou autres)
 
 - $ ./mjpg_streamer -i "./input_uvc.so -y -r 320x240" -o "./output_http.so -w ./www"
+
+# Version Python
+
+On va utiliser l'API pseyepy (<https://github.com/bensondaled/pseyepy>)
