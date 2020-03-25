@@ -1,4 +1,4 @@
-# Version Non-Python
+## Version Non-Python
 
 # Identification materiels
 
@@ -44,6 +44,6 @@ On peut lancer le programme (avec notament le format ou le port pour la liaison 
 
 - $ ./mjpg_streamer -i "./input_uvc.so -y -r 320x240" -o "./output_http.so -w ./www"
 
-# Version Python
+## Version Python
 
 On va utiliser l'API pseyepy (<https://github.com/bensondaled/pseyepy>)
