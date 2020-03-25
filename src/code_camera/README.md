@@ -1,6 +1,6 @@
-## Version Non-Python
+# Version Non-Python
 
-# Identification materiels
+## Identification materiels
 
 On commence par verifier si la webcam est bien reconnnue : $ lsusb
 
@@ -16,7 +16,7 @@ On doit ensuite retrouver les formats supportées par la camera :
 - $ v4l2-ctl -d /dev/video0 --list-formats
 - $ v4l2-ctl -d /dev/video1 --list-formats
 
-# Installation logiciels
+## Installation logiciels
 
 On met en place un logiciels de gestion de sources :
 
@@ -38,12 +38,12 @@ Puis on compile
 - $ cd mjpg-streamer/mjpg-streamer
 - $ make
 
-# Test
+## Test
 
 On peut lancer le programme (avec notament le format ou le port pour la liaison internet ou autres)
 
 - $ ./mjpg_streamer -i "./input_uvc.so -y -r 320x240" -o "./output_http.so -w ./www"
 
-## Version Python
+# Version Python
 
 On va utiliser l'API pseyepy (<https://github.com/bensondaled/pseyepy>)
