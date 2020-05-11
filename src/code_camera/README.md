@@ -47,3 +47,4 @@ On peut lancer le programme (avec notament le format ou le port pour la liaison 
 # Version Python
 
 On va utiliser l'API pseyepy (<https://github.com/bensondaled/pseyepy>)
+Pour son utilisation a on egalement besoin de Cython, telechargable avec : `pip install Cython`
