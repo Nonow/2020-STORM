@@ -160,8 +160,8 @@ Réalisation de la vidéo de présentation                       | Sébastien | 
 
 ## C) Matériaux
 
-Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.<br>
-![Carte Arduino, microcontroller](images_rapport/image7.png)<br>
+Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.
+
 ![Carte Arduino, microcontroller](images_rapport/image7.png)<br>
 _Carte Arduino, microcontroller_
 
