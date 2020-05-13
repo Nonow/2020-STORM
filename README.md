@@ -12,7 +12,4 @@ Nous allons reprendre le projet Anti Theft, réalisée l'an dernier par Hamza CH
 
 ## Vidéo de présentation:
 
-[Vidéo concernant le projet](https://youtu.be/Gw6eIBtf0Fg)
-
-<a href="https://www.youtube.com/watch?v=Gw6eIBtf0Fg" target="_blank"><img src="https://www.youtube.com/watch?v=Gw6eIBtf0Fg/0.jpg" 
-alt="Vidéo concernant le projet" width="240" height="180" border="10" /></a>
+[![Vidéo concernant le projet](http://img.youtube.com/vi/Gw6eIBtf0Fg/0.jpg)](http://www.youtube.com/watch?v=Gw6eIBtf0Fg "Vidéo de présentation")
