@@ -152,7 +152,13 @@ Voici une liste des matériaux à se procurer pour reproduire le projet sans pro
 
 ## D) Fritzing
 
-À partir de ce modèle, vous pouvez refaire le système de surveillance.
+
+
+À partir de ce modèle, vous pouvez refaire le système de surveillance. !
+
+[Diagramme de Fritzing](https://github.com/institut-galilee/2020-STORM/blob/master/doc/fritzing.png)
+
+
 
 # V) Fonctionnement du système
 
