@@ -160,19 +160,19 @@ Réalisation de la vidéo de présentation                       | Sébastien | 
 
 Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.
 
-![Carte Arduino, microcontroller](image7.png) _Carte Arduino, microcontroller_
+![Carte Arduino, microcontroller](images_rapport/image7.png) _Carte Arduino, microcontroller_
 
-![Écran LCD](image3.png) _Écran LCD, qui servira d'affichage sur le dispositif_
+![Écran LCD](images_rapport/image3.png) _Écran LCD, qui servira d'affichage sur le dispositif_
 
-![Potentiomètre](image10.png) _Potentiomètre, pour réguler l'affichage de l'écran LCD_
+![Potentiomètre](images_rapport/image10.png) _Potentiomètre, pour réguler l'affichage de l'écran LCD_
 
-![Capteur à ultrason](image13.png) _Capteur à ultrason, utilisée pour le contrôle d'une zone et la détection de mouvement_
+![Capteur à ultrason](images_rapport/image13.png) _Capteur à ultrason, utilisée pour le contrôle d'une zone et la détection de mouvement_
 
-![Matrix keypad keyboard](image6.png)_Matrix keypad keyboard, permettant de définir un mot de passe, activer ou désactiver le système manuellement._
+![Matrix keypad keyboard](images_rapport/image6.png)_Matrix keypad keyboard, permettant de définir un mot de passe, activer ou désactiver le système manuellement._
 
-![Buzzer](image2.png) _Buzzer, haut parleur miniature pour émettre une alarme_
+![Buzzer](images_rapport/image2.png) _Buzzer, haut parleur miniature pour émettre une alarme_
 
-![Caméra PS3 eye](image9.png) _Caméra PS3 eye, permettant la capture de l'intrusion_
+![Caméra PS3 eye](images_rapport/image9.png) _Caméra PS3 eye, permettant la capture de l'intrusion_
 
 ## D) Fritzing
 
@@ -200,7 +200,7 @@ Nous avons mit en place également une application web qui permet de visualiser 
 
 L'application web a pour objectif de visualiser les données de manières adaptée à l'utilisateur. Le site affiche ainsi l'affluence sous forme d'un graphique comme celui-ci dessous. Ainsi l'élément clef de celle-ci sera l'ergonomie, l'utilisateur doit s'y retrouver facilement et doit pouvoir comprendre les données affichée facilement le public visée par ce genre de caméras étant très variée.
 
-![Site traitant l’affluence](image14.png) _Site traitant l'affluence_
+![Site traitant l’affluence](images_rapport/image14.png) _Site traitant l'affluence_
 
 # VI) Manuel d'utilisation
 
