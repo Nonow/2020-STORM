@@ -71,13 +71,15 @@ Les caméras de surveillance extérieure seront le plus grand marché pour l'Int
 
 On pourrait dire que l'utilisation des caméras de surveillance semble triviale, chaque jour nous enregistrons plus d'un trillion d'heure de surveillance. De plus, elle représente en 2018 quasiment 37 milliards d'euros et devrait atteindre les 70 milliards d'euro en 2023\. Le secteur de la vidéosurveillance connaît donc une croissance annuel de 13%.
 
-![Graphique des 10 pays avec le plus de caméras ](images_rapport/graphe_camera.jpg) _Graphique des pays les plus surveillés_
+![Graphique des 10 pays avec le plus de caméras ](images_rapport/graphe_camera.jpg)<br>
+_Graphique des pays les plus surveillés_
 
 ## B) Caméra avec détection de mouvement
 
 La quasi totalitée des caméras de surveillance d'aujourd'hui sont dites des "caméras IP". Elles capturent les images de façon électronique et les envoient sans délai par le biais d'un réseau informatique, terminer les enregistrements sur cassette. Il s'agit ainsi du système de surveillance en directe le plus rapide et efficace.
 
-![Exemple de camera ip ](images_rapport/camera_ip.jpg) _Caméra IP_
+![Exemple de camera ip ](images_rapport/camera_ip.jpg)<br>
+_Caméra IP_
 
 Son rôle est de permettre de visualiser à distance, en direct ou en différé, les événements qui se déroulent dans un lieu donné. Ainsi on va retrouver deux éléments essentiels, la caméra pour filmer et la carte réseaux pour envoyer les images dans un lieu de stockage ou streaming.
 
@@ -158,27 +160,34 @@ Réalisation de la vidéo de présentation                       | Sébastien | 
 
 ## C) Matériaux
 
-Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.
+Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.<br>
+![Carte Arduino, microcontroller](images_rapport/image7.png)<br>
+![Carte Arduino, microcontroller](images_rapport/image7.png)<br>
+_Carte Arduino, microcontroller_
 
-![Carte Arduino, microcontroller](images_rapport/image7.png) _Carte Arduino, microcontroller_
+![Écran LCD](images_rapport/image3.png)<br>
+_Écran LCD, qui servira d'affichage sur le dispositif_
 
-![Écran LCD](images_rapport/image3.png) _Écran LCD, qui servira d'affichage sur le dispositif_
+![Potentiomètre](images_rapport/image10.png)<br>
+_Potentiomètre, pour réguler l'affichage de l'écran LCD_
 
-![Potentiomètre](images_rapport/image10.png) _Potentiomètre, pour réguler l'affichage de l'écran LCD_
+![Capteur à ultrason](images_rapport/image13.png)<br>
+_Capteur à ultrason, utilisée pour le contrôle d'une zone et la détection de mouvement_
 
-![Capteur à ultrason](images_rapport/image13.png) _Capteur à ultrason, utilisée pour le contrôle d'une zone et la détection de mouvement_
+![Matrix keypad keyboard](images_rapport/image6.png)<br>
+_Matrix keypad keyboard, permettant de définir un mot de passe, activer ou désactiver le système manuellement._
 
-![Matrix keypad keyboard](images_rapport/image6.png)_Matrix keypad keyboard, permettant de définir un mot de passe, activer ou désactiver le système manuellement._
+![Buzzer](images_rapport/image2.png)<br>
+_Buzzer, haut parleur miniature pour émettre une alarme_
 
-![Buzzer](images_rapport/image2.png) _Buzzer, haut parleur miniature pour émettre une alarme_
-
-![Caméra PS3 eye](images_rapport/image9.png) _Caméra PS3 eye, permettant la capture de l'intrusion_
+![Caméra PS3 eye](images_rapport/image9.png)<br>
+_Caméra PS3 eye, permettant la capture de l'intrusion_
 
 ## D) Fritzing
 
 À partir de ce modèle, vous pouvez refaire le système de surveillance. !
 
-![diagramme de fritzing](fritzing.png)
+![diagramme de fritzing](fritzing.png)<br>
 
 _Modèle Fritzing du système de surveillance_
 
@@ -200,7 +209,8 @@ Nous avons mit en place également une application web qui permet de visualiser 
 
 L'application web a pour objectif de visualiser les données de manières adaptée à l'utilisateur. Le site affiche ainsi l'affluence sous forme d'un graphique comme celui-ci dessous. Ainsi l'élément clef de celle-ci sera l'ergonomie, l'utilisateur doit s'y retrouver facilement et doit pouvoir comprendre les données affichée facilement le public visée par ce genre de caméras étant très variée.
 
-![Site traitant l’affluence](images_rapport/image14.png) _Site traitant l'affluence_
+![Site traitant l’affluence](images_rapport/image14.png)<br>
+_Site traitant l'affluence_
 
 # VI) Manuel d'utilisation
 
