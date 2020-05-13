@@ -1,12 +1,17 @@
-# Groupe STORM : Système de surveillance connectée 
+# Groupe STORM : Système de surveillance connectée
 
 ## Membres :
-* WU Sébastien (sebastienwu0@gmail.com)
-* SATHIANATHAN Sayanthan (Sayan.sath@gmail.com)
-* DUDEK Tomasz (tomasz.pl.dudek@gmail.com)
+
+- WU Sébastien (sebastienwu0@gmail.com)
+- SATHIANATHAN Sayanthan (Sayan.sath@gmail.com)
+- DUDEK Tomasz (tomasz.pl.dudek@gmail.com)
 
 ## Objectif du projets :
-Nous allons reprendre le projet Anti Theft, réalisée l’an dernier par Hamza CHARAI, Mingming LU, Jiazhong YIN. L'objectif principal est donc de partir d'un détecteur de mouvement simple et arriver à creer un dispositif de surveillance connectée. Pour cela nous allons mettre en place une caméra qui se déclenche lors de l'intrusion, une alarme pour faire fuir le voleur mais aussi une application web qui permettra de gérer notre système et utiliser les données récoltées pour faire des statistiques sur les flux de personne dans une pièce. Tout ceci est détaillé davantage dans le dossier doc. 
 
-## Vidéo :
-[Vidéo concernant le projet](https://youtu.be/Gw6eIBtf0Fg)  
+Nous allons reprendre le projet Anti Theft, réalisée l'an dernier par Hamza CHARAI, Mingming LU, Jiazhong YIN. L'objectif principal est donc de partir d'un détecteur de mouvement simple et arriver à creer un dispositif de surveillance connectée. Pour cela nous allons mettre en place une caméra qui se déclenche lors de l'intrusion, une alarme pour faire fuir le voleur mais aussi une application web qui permettra de gérer notre système et utiliser les données récoltées pour faire des statistiques sur les flux de personne dans une pièce. Tout ceci est détaillé davantage dans le dossier doc.
+
+## Vidéo de présentation:
+
+[Vidéo concernant le projet](https://youtu.be/Gw6eIBtf0Fg)
+
+[![Vidéo concernant le projet](https://youtu.be/Gw6eIBtf0Fg/0.jpg)](https://youtu.be/Gw6eIBtf0Fg)

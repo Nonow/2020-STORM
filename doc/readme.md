@@ -2,9 +2,9 @@
 
 # Étudiants :
 
-- WU Sébastien
-- SATHIANATHAN Sayanthan
-- DUDEK Tomasz
+- WU Sébastien (sebastienwu0@gmail.com)
+- SATHIANATHAN Sayanthan (Sayan.sath@gmail.com)
+- DUDEK Tomasz (tomasz.pl.dudek@gmail.com)
 
 # Professeurs :
 
