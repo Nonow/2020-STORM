@@ -1,0 +1,5 @@
+# Fiche personnelle d'activité : Tomasz DUDEK
+
+Étant donné la situation particulière, j'ai commencé par partciper à la création de [l'État de l'art](https://github.com/institut-galilee/2020-STORM/blob/master/doc/Etat%20de%20l'art.pdf) et du premier rapport. Sans la possibilité de réunir notre matériel j'ai également travaillé sur la caméra de notre projet qui se trouve chez moi. Malheuresemnt, TinkerCad ne permet pas d'utiliser une caméra surtout que nous avons prévue (faute de branchage sur l'arduino) d'utiliser une caméra PS3 eye, branchable par USB, et une rasberry pie.<br>
+TinkerCad étant impossible à utiliser pour la caméra, je me suis tourné vers une autre méthode et j'ai donc travaillé sur virtualbox pour mettre en place une [documentation](https://github.com/institut-galilee/2020-STORM/tree/master/src/code_camera) qui nous permettrai de rapidement mettre en place la caméra.<br>
+Enfin, pour préparer le rendu final j'ai participé à l'écriture du rapport final et de la présentation, mais j'ai aussi aider de mon mieux pour la création de la video.
