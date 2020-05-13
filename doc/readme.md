@@ -9,7 +9,7 @@
 # Professeurs :
 
 - OSMANI Aomar
-- OSMANI Aomar
+- HAMIDI Massinissa
 
 # Sommaire :
 
