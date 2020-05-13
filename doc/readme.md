@@ -77,11 +77,15 @@ On pourrait dire que l'utilisation des caméras de surveillance semble triviale,
 
 La quasi totalitée des caméras de surveillance d'aujourd'hui sont dites des "caméras IP". Elles capturent les images de façon électronique et les envoient sans délai par le biais d'un réseau informatique, terminer les enregistrements sur cassette. Il s'agit ainsi du système de surveillance en directe le plus rapide et efficace.
 
+![Exemple de camera ip ](images_rapport/camera_ip.jpg) _Caméra IP_
+
 Son rôle est de permettre de visualiser à distance, en direct ou en différé, les événements qui se déroulent dans un lieu donné. Ainsi on va retrouver deux éléments essentiels, la caméra pour filmer et la carte réseaux pour envoyer les images dans un lieu de stockage ou streaming.
 
 Néanmoins, on retrouve des caméras qui se contente de ses fonctionnalités de base et vont se différencier par leur résolution ou leur angle de vue. Mais certaines caméras embarquent des éléments supplémentaires pour proposer des fonctionnalités plus avancées aux utilisateurs plus exigeantes. On retrouve notamment des caméras équipées pour la surveillance de nuit d'un détecteur de mouvements qui déclenche un éclairage dès qu'une présence est repérée, voire même une caméra infrarouge, capable de capturer des images dans l'obscurité.
 
 Dans l'exemple ci-dessous, on retrouve par exemple une caméra de surveillance qui est composée d'un détecteur de mouvements, une caméra grand angle et même d'un système infrarouge. En plus, elle intègre un haut-parleur et un micro pour communiquer avec la pièce surveillée ou tout simplement entendre ce qui se passe. Enfin elle est équipée d'une alarme, dissuadant le voleur de continuer ses actions.
+
+![Exemple de camera sophistiqué ](images_rapport/camera_interieur.jpg)
 
 Exemples :
 
@@ -94,6 +98,8 @@ Les détecteurs de mouvements sont une option souvent moins chère qu'une camér
 
 De plus, étant donnée qu'on a moins de données à transférer, on peut utiliser tout aussi bien une connexion internet qu'un signal radio pour lancer l'alarme. Cette flexibilité permet à un système de détecteur de mouvement de repondre a different besoin et rend sa mise en place plus facile.
 
+![Exemple de detecteur de mouvement ](images_rapport/detecteur_mvt.jpg)
+
 Exemples
 
 - <https://www.scs-sentinel.com/detecteur+de+mouvement+connecte+wifisensor+motion-12846?SID_scssentinel=s8j2hohnmlverjupvnehdnk9tf>
@@ -104,6 +110,8 @@ Exemples
 ## A) Diagramme de cas d'utilisation
 
 Diagramme d'utilisation décrivant les actions réalisables par l'utilisateur et par le système de surveillance de la maison :
+
+![Diagrame de cas d'utilisation ](images_rapport/iot_Use_Case_diagram.jpg)
 
 ## B) Planning
 
@@ -152,6 +160,20 @@ Réalisation de la vidéo de présentation                       | Sébastien | 
 
 Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.
 
+![Carte Arduino, microcontroller](image7.png) _Carte Arduino, microcontroller_
+
+![Écran LCD](image3.png) _Écran LCD, qui servira d'affichage sur le dispositif_
+
+![Potentiomètre](image10.png) _Potentiomètre, pour réguler l'affichage de l'écran LCD_
+
+![Capteur à ultrason](image13.png) _Capteur à ultrason, utilisée pour le contrôle d'une zone et la détection de mouvement_
+
+![Matrix keypad keyboard](image6.png)_Matrix keypad keyboard, permettant de définir un mot de passe, activer ou désactiver le système manuellement._
+
+![Buzzer](image2.png) _Buzzer, haut parleur miniature pour émettre une alarme_
+
+![Caméra PS3 eye](image9.png) _Caméra PS3 eye, permettant la capture de l'intrusion_
+
 ## D) Fritzing
 
 À partir de ce modèle, vous pouvez refaire le système de surveillance. !
@@ -177,6 +199,8 @@ Enfin, nous avons prévu d'utiliser pour notre projet une caméra PS3 eye dont n
 Nous avons mit en place également une application web qui permet de visualiser les données récoltées via le système de surveillance. Une fois connecter sur son compte l'utilisateur pourra lier son système de surveillance avec l'application à travers la connexion wi-fi. Ensuite, lorsque le système sera en mode passif il va enregistrer les fréquence de passage dans la base de données.
 
 L'application web a pour objectif de visualiser les données de manières adaptée à l'utilisateur. Le site affiche ainsi l'affluence sous forme d'un graphique comme celui-ci dessous. Ainsi l'élément clef de celle-ci sera l'ergonomie, l'utilisateur doit s'y retrouver facilement et doit pouvoir comprendre les données affichée facilement le public visée par ce genre de caméras étant très variée.
+
+![Site traitant l’affluence](image14.png) _Site traitant l'affluence_
 
 # VI) Manuel d'utilisation
 
