@@ -13,33 +13,33 @@
 
 # Sommaire :
 
-- Introduction
-- Description du projet
+- [Introduction](https://github.com/institut-galilee/2020-STORM/tree/master/doc#i-introduction)
+- [Description du projet](https://github.com/institut-galilee/2020-STORM/tree/master/doc#ii-description-du-projet)
 
-  - Présentation
-  - Limite
+  - [Présentation](https://github.com/institut-galilee/2020-STORM/tree/master/doc#a-pr%C3%A9sentation)
+  - [Limite](https://github.com/institut-galilee/2020-STORM/tree/master/doc#b-limite)
 
-- État de l'art
+- [État de l'art](https://github.com/institut-galilee/2020-STORM/tree/master/doc#iii-%C3%A9tat-de-lart)
 
-  - Le marché actuel
-  - Caméra avec détection de mouvement
-  - Détecteurs de mouvement
+  - [Le marché actuel](https://github.com/institut-galilee/2020-STORM/tree/master/doc#a-le-march%C3%A9-actuel)
+  - [Caméra avec détection de mouvement](https://github.com/institut-galilee/2020-STORM/tree/master/doc#b-cam%C3%A9ra-avec-d%C3%A9tection-de-mouvement)
+  - [Détecteurs de mouvement](https://github.com/institut-galilee/2020-STORM/tree/master/doc#c-d%C3%A9tecteurs-de-mouvement)
 
-- Processus de conception et de fabrication
+- [Processus de conception et de fabrication](https://github.com/institut-galilee/2020-STORM/tree/master/doc#iv-processus-de-conception-et-de-fabrication)
 
-  - Diagramme de cas d'utilisation
-  - Planning
-  - Matériaux
-  - Fritzing
+  - [Diagramme de cas d'utilisation](https://github.com/institut-galilee/2020-STORM/tree/master/doc#a-diagramme-de-cas-dutilisation)
+  - [Planning](https://github.com/institut-galilee/2020-STORM/tree/master/doc#b-planning)
+  - [Matériaux](https://github.com/institut-galilee/2020-STORM/tree/master/doc#c-mat%C3%A9riaux)
+  - [Fritzing](https://github.com/institut-galilee/2020-STORM/tree/master/doc#d-fritzing)
 
-- Fonctionnement du système
+- [Fonctionnement du système](https://github.com/institut-galilee/2020-STORM/tree/master/doc#v-fonctionnement-du-syst%C3%A8me)
 
-  - Description du système
-  - Description de l'application
+  - [Description du système](https://github.com/institut-galilee/2020-STORM/tree/master/doc#a-description-du-syst%C3%A8me)
+  - [Description de l'application](https://github.com/institut-galilee/2020-STORM/tree/master/doc#b-description-de-lapplication)
 
-- Manuel d'utilisation
+- [Manuel d'utilisation](https://github.com/institut-galilee/2020-STORM/tree/master/doc#vi-manuel-dutilisation)
 
-- Conclusion
+- [Conclusion](https://github.com/institut-galilee/2020-STORM/tree/master/doc#vii-conclusion)
 
 # I) Introduction
 
@@ -113,7 +113,7 @@ Exemples
 
 Diagramme d'utilisation décrivant les actions réalisables par l'utilisateur et par le système de surveillance de la maison :
 
-![Diagrame de cas d'utilisation ](images_rapport/iot_Use_Case_diagram.jpg)
+![Diagrame de cas d'utilisation ](iot_Use_Case_diagram.jpg)
 
 ## B) Planning
 
