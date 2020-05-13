@@ -71,6 +71,8 @@ Les caméras de surveillance extérieure seront le plus grand marché pour l'Int
 
 On pourrait dire que l'utilisation des caméras de surveillance semble triviale, chaque jour nous enregistrons plus d'un trillion d'heure de surveillance. De plus, elle représente en 2018 quasiment 37 milliards d'euros et devrait atteindre les 70 milliards d'euro en 2023\. Le secteur de la vidéosurveillance connaît donc une croissance annuel de 13%.
 
+![Graphique des 10 pays avec le plus de caméras ](images_rapport/graphe_camera.jpg) _Graphique des pays les plus surveillés_
+
 ## B) Caméra avec détection de mouvement
 
 La quasi totalitée des caméras de surveillance d'aujourd'hui sont dites des "caméras IP". Elles capturent les images de façon électronique et les envoient sans délai par le biais d'un réseau informatique, terminer les enregistrements sur cassette. Il s'agit ainsi du système de surveillance en directe le plus rapide et efficace.
@@ -156,11 +158,7 @@ Voici une liste des matériaux à se procurer pour reproduire le projet sans pro
 
 ![diagramme de fritzing](fritzing.png)
 
-
-
 _Modèle Fritzing du système de surveillance_
-
-
 
 # V) Fonctionnement du système
 
