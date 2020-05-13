@@ -156,6 +156,12 @@ Voici une liste des matériaux à se procurer pour reproduire le projet sans pro
 
 ![diagramme de fritzing](fritzing.png)
 
+
+
+_Modèle Fritzing du système de surveillance_
+
+
+
 # V) Fonctionnement du système
 
 ## A) Description du système
