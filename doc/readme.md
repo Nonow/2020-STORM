@@ -105,6 +105,47 @@ Diagramme d'utilisation décrivant les actions réalisables par l'utilisateur et
 
 ## B) Planning
 
+<br>
+
+Tâches                                                        | Nom       | Temps (en heures)
+------------------------------------------------------------- | --------- | -----------------
+Ecriture du rapport                                           | Sébastien | 3
+" " "                                                         | Sayanthan | 8
+" " "                                                         | Tomasz    | 6
+Documentation                                                 | Sayanthan | 6
+Création de la Présentation                                   | Sébastien | 1
+" " "                                                         | Sayanthan | 2
+" " "                                                         | Tomasz    | 2
+Ecriture de l'etats de l'art                                  | Sébastien | 2
+" " "                                                         | Sayanthan | 4
+" " "                                                         | Tomasz    | 6
+Réalisation des TPs                                           | Sébastien | 10
+" " "                                                         | Sayanthan | 2
+Création de l'interface web                                   | Sayanthan | 8
+Mise en place d'une alerte par mail                           | Sébastien | 4
+" " "                                                         | Sayanthan | 3
+Documentation et création des fonctionnalités pour la caméra  | Tomasz    | 10
+Mise en place d'une alerte avec buzzer                        | Sébastien | 2
+Mise en place d'un capteur de mouvement                       | Sébastien | 2
+Création des fonctionnalités d'interaction par pavé numérique | Sébastien | 4
+Mise en place des interactions LCD                            | Sébastien | 4
+Création de la User case                                      | Sébastien | 1
+" " "                                                         | Sayanthan | 3
+" " "                                                         | Tomasz    | 2
+Création diagramme d'activité                                 | Sayanthan | 2
+Création du Fritzing                                          | Sébastien | 2
+Branchements arduino                                          | Sébastien | 2
+Résolution problème code                                      | Sayanthan | 5
+Diaporama final                                               | Sayanthan | 3
+" " "                                                         | Sébastien | 1
+" " "                                                         | Tomasz    | 2
+Recherche et achat du matériel                                | Sébastien | 2
+" " "                                                         | Sayanthan | 2
+" " "                                                         | Tomasz    | 2
+Réalisation de la vidéo de présentation                       | Sébastien | 2
+" " "                                                         | Sayanthan | 1
+" " "                                                         | Tomasz    | 1
+
 ## C) Matériaux
 
 Voici une liste des matériaux à se procurer pour reproduire le projet sans problème. Tout peut se trouver sur Amazon ou vous demandez poliment à votre enseignant. Bien sûr, il faut qu'il n'y ait pas de confinement pour que le projet se fasse de la plus belle des manières. Vous pourriez vous retrouver dans notre cas avec les matériaux éparpillés au sein du groupe.
